@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="search_user">Search User</string>
+    <string name="image_user">Image User</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_username">\@username</string>
+    <string name="txt_company">Company</string>
+    <string name="txt_location">Location</string>
+    <string name="txt_email">email</string>
+    <string name="name_dummy">Wang Guan</string>
+    <string name="username_dummy">\@wangguan</string>
+    <string name="company_dummy">Director of Mihyo Company, Director of Mobile @mihoyo. DevRel. Engineering</string>
+    <string name="dummy_follower">12K</string>
+    <string name="txt_followers">Followers</string>
+    <string name="image_view">Image View</string>
+    <string name="following_dummy">120</string>
+    <string name="txt_following">Following</string>
+    <string name="location_dummy">Taipe, Taiwan</string>
+    <string name="email_dummy">washi@miyoho.com</string>
+    <string name="repository_dummy">android-trinity</string>
+    <string name="desc_repository_dummy">android trinity is tiny proactive framework with much of the scaffolding code required to start a new Android Application</string>
+    <string name="star_dummy">55</string>
+    <string name="update_dummy">Updated 15 hours ago</string>
+    <string name="txt_content_image_splash">Imageview Splash Activity</string>
+    <string name="txt_title_github">Github</string>
+    <string name="repolink">Repolink</string>
+    <string name="user">User</string>
+    <string name="txt_favorites">Favorites</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="change_mode">Change Mode</string>
+    <string name="no_available">No Available</string>
+    <string name="tv_not_found">Data Not Found</string>
+    <string name="text_error">Sorry an Error Occurred</string>
+    <string name="favorite_users">Favorites</string>
+
+
+</resources>
